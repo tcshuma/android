@@ -25,7 +25,7 @@ Commit your patches in a single commit. Squash multiple commit using this comman
 To view the status of your and others' patches, visit [CyanogenMod Code Review](http://review.cyanogenmod.com/)
 
 
-Getting Started
+Getting Started!
 ---------------
 
 To get started with Android/CyanogenMod, you'll need to get
